@@ -18,5 +18,7 @@ class Program
         order.Unsubscribe(user1);
 
         order.ChangeStatus("Delivered");
+        
+        //TODO an authorization logic
     }
 }
