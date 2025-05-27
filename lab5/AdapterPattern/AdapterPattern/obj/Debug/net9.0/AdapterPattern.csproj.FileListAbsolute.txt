@@ -1,0 +1,14 @@
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.exe
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.deps.json
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.runtimeconfig.json
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.dll
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.pdb
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfoInputs.cache
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfo.cs
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.csproj.CoreCompileInputs.cache
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.dll
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\obj\Debug\net9.0\refint\AdapterPattern.dll
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.pdb
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.genruntimeconfig.cache
+J:\University\ТСПП\labs\lab4\AdapterPattern\AdapterPattern\obj\Debug\net9.0\ref\AdapterPattern.dll

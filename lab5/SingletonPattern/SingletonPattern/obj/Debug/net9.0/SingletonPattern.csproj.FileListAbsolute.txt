@@ -1,0 +1,14 @@
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\bin\Debug\net9.0\SingletonPattern.exe
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\bin\Debug\net9.0\SingletonPattern.deps.json
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\bin\Debug\net9.0\SingletonPattern.runtimeconfig.json
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\bin\Debug\net9.0\SingletonPattern.dll
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\bin\Debug\net9.0\SingletonPattern.pdb
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\obj\Debug\net9.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\obj\Debug\net9.0\SingletonPattern.AssemblyInfoInputs.cache
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\obj\Debug\net9.0\SingletonPattern.AssemblyInfo.cs
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\obj\Debug\net9.0\SingletonPattern.csproj.CoreCompileInputs.cache
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\obj\Debug\net9.0\SingletonPattern.dll
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\obj\Debug\net9.0\refint\SingletonPattern.dll
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\obj\Debug\net9.0\SingletonPattern.pdb
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\obj\Debug\net9.0\SingletonPattern.genruntimeconfig.cache
+J:\University\ТСПП\labs\lab4\SingletonPattern\SingletonPattern\obj\Debug\net9.0\ref\SingletonPattern.dll

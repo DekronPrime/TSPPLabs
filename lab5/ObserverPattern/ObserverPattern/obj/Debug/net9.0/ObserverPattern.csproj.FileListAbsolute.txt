@@ -1,0 +1,14 @@
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\bin\Debug\net9.0\ObserverPattern.exe
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\bin\Debug\net9.0\ObserverPattern.deps.json
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\bin\Debug\net9.0\ObserverPattern.runtimeconfig.json
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\bin\Debug\net9.0\ObserverPattern.dll
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\bin\Debug\net9.0\ObserverPattern.pdb
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfoInputs.cache
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfo.cs
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.csproj.CoreCompileInputs.cache
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.dll
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\obj\Debug\net9.0\refint\ObserverPattern.dll
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.pdb
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ObserverPattern.genruntimeconfig.cache
+J:\University\ТСПП\labs\lab4\ObserverPattern\ObserverPattern\obj\Debug\net9.0\ref\ObserverPattern.dll
