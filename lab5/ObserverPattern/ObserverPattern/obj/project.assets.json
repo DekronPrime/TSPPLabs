@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\University\\ТСПП\\labs\\lab4\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+      "projectUniqueName": "J:\\University\\ТСПП\\labs\\lab5\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
       "projectName": "ObserverPattern",
-      "projectPath": "J:\\University\\ТСПП\\labs\\lab4\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+      "projectPath": "J:\\University\\ТСПП\\labs\\lab5\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "J:\\University\\ТСПП\\labs\\lab4\\ObserverPattern\\ObserverPattern\\obj\\",
+      "outputPath": "J:\\University\\ТСПП\\labs\\lab5\\ObserverPattern\\ObserverPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
